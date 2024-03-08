@@ -1,0 +1,23 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --gris1:#454545;
+  --gris2:#2E2D2D;
+  --grisClaro:#AAAAAA;
+  --menugris1:#474747;
+ --blanco:#FFFFFF;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal; 
+}
+h1 h2 h3 h4 h5 h6 p{
+ 
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal; 
+}
+
+ 
